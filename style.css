@@ -1,0 +1,12 @@
+
+.inc-text-size {
+    font-size: 25px;
+}
+
+.add-border {
+    border: 1px solid black
+}
+
+.add-padding {
+    padding: 2px;
+}
